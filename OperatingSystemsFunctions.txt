@@ -1,0 +1,1 @@
+One function of an operating system is providing a user interface. A user interface is how a user controls software or hardware device. A good user interface, or UI, is user friendly and makes it easy to navigate and use hardware.
